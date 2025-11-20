@@ -1,0 +1,11 @@
+
+{
+  "name": "myfxbook-vercel-news-api",
+  "version": "1.0.0",
+  "description": "Serverless API for fetching high-impact USD/CAD events from MyFXBook for MT4 EA (Vercel-friendly)",
+  "main": "api/news.js",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "dependencies": {}
+}
